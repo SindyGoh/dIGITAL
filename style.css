@@ -1,25 +1,26 @@
+
 body{
-    background:#EEE;
+    background:#FFFFFF;
     font-family: Helvetica, Arial;
 }
 
 a{
     text-decoration: none;
-    color: red;
+    color: mediumpurple;
 }
 
 h1, h2, h3{
     margin: 0;
 }
 #container{
-    background-color:white;
+    background-color:#FFECD9;
     width: 800px
     margin-left: auto;
     margin-right: auto;
 }
 
 #header{
-    background-color: #FF99FF;
+    background-color: #CC9999;
     Color: white;
     text-align: centre;
     padding: 10px;
@@ -30,13 +31,14 @@ h1, h2, h3{
 }
 
 #nav{
-    width: 180px;
+    width: 200px;
     float: left;
+    font-size: 15px;
 }
 
 #nav ul{
     list-style-type: none;
-    padding; 0px;
+    padding: 0px;
 }
 
 #nav .selected{
@@ -44,7 +46,7 @@ h1, h2, h3{
 }
 
 #main{
-    width: 1300px;
+    width: 1250px;
     float: right;
 }
 
