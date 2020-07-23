@@ -1,8 +1,9 @@
 
 body{
     background:#FFFFFF;
-    font-family: Helvetica, Arial;
+    font-family: Georgia;
 }
+
 
 a{
     text-decoration: none;
@@ -13,14 +14,14 @@ h1, h2, h3{
     margin: 0;
 }
 #container{
-    background-color:#FFECD9;
+    background-color:#fffef2;
     width: 800px
     margin-left: auto;
     margin-right: auto;
 }
 
 #header{
-    background-color: #CC9999;
+    background-color: #f5d2d3;
     Color: white;
     text-align: centre;
     padding: 10px;
@@ -53,7 +54,7 @@ li a {
 
 
 li a:hover {
-  background-color: #87CEEB;
+  background-color: #dee4ff;
   color: white;
 }
 
@@ -74,7 +75,38 @@ li a:hover {
 #footer{
     clear:both;
     padding: 10px;
-    background-color: #999999; 
+    background-color: #cdcdcd; 
     color: white;
     text-align: right;
 }
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+}
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+}
+

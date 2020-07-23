@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="Laser cutting box.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path10" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path13" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path15" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path17" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+    <marker
+       id="DistanceX-5"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path46" />
+    </marker>
+    <pattern
+       id="Hatch-5"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path49" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path51" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path53" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-2" />
+    <symbol
+       id="*PAPER_SPACE-1" />
+    <marker
+       id="DistanceX-9"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path82" />
+    </marker>
+    <pattern
+       id="Hatch-58"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path85" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path87" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path89" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-7" />
+    <symbol
+       id="*PAPER_SPACE-2" />
+    <marker
+       id="DistanceX-51"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path118" />
+    </marker>
+    <pattern
+       id="Hatch-4"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path121" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path123" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path125" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-77" />
+    <symbol
+       id="*PAPER_SPACE-5" />
+    <marker
+       id="DistanceX-92"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         style="stroke:#000000; stroke-width:0.5"
+         id="path157" />
+    </marker>
+    <pattern
+       id="Hatch-41"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path160" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path162" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path164" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE-8" />
+    <symbol
+       id="*PAPER_SPACE-10" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="217.14286"
+     inkscape:cx="400"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       id="path24"
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 59.77381,44.970238 h -9.999999 v 3 H 39.77381 v -3 H 29.773809 v 3 H 19.77381 v -3 H 9.7738093 v -4.99999 h 2.9999997 v -8.00002 H 9.7738093 v -8 h 2.9999997 v -7.99999 H 9.7738093 V 7.9702379 H 59.77381 v 8.0000001 h -3 v 7.99999 h 3 v 8 h -3 v 8.00002 h 3 z" />
+    <path
+       id="path60"
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 126.40476,50.261905 h -10 v 3 h -10 v -3 h -9.999998 v 3 h -10 v -3 h -10 v -4.99999 h 3 v -8.00002 h -3 v -8 h 3 v -7.99999 h -3 v -8 h 49.999998 v 8 h -3 v 7.99999 h 3 v 8 h -3 v 8.00002 h 3 z" />
+    <path
+       id="path96"
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 14.988094,68.73809 v 3.00001 h 11.28572 v -3.00001 h 14.28571 v 3.00001 h 14.28571 v -3.00001 h 14.28572 v 3.00001 h 14.28571 v -3.00001 h 14.28572 v 3.00001 h 11.285706 v -3.00001 h 3 V 78.7381 h -3 v 9.99998 h 3 v 10.00001 h -3 v 10 h 3 v 10.00001 h -3 v -3 H 97.702384 v 3 h -14.28572 v -3 h -14.28571 v 3 h -14.28572 v -3 h -14.28571 v 3 h -14.28571 v -3 h -11.28572 v 3 h -3 v -10.00001 h 3 v -10 h -3 V 88.73808 h 3 V 78.7381 h -3 V 68.73809 Z" />
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,21.791664,-88.369039)"
+       inkscape:label="0"
+       id="g136">
+      <path
+         d="M 11.338583,971.33858 H 366.61417 v 30.23622 h 11.33859 v 30.2362 h -11.33859 v 30.2362 h 11.33859 v 30.2363 h -11.33859 v 30.2362 H 323.9595 v -11.3386 h -53.99325 v 11.3386 H 215.973 v -11.3386 h -53.99325 v 11.3386 H 107.9865 v -11.3386 H 53.993251 v 11.3386 H 11.338583 v -30.2362 H 0 v -30.2363 H 11.338583 V 1031.811 H 0 v -30.2362 h 11.338583 z"
+         style="fill:none;stroke:#000000"
+         id="path132" />
+      <path
+         d="M 0,1092.2923 H 11.453385"
+         style="fill:none;stroke:#000000"
+         id="path134" />
+    </g>
+    <path
+       id="path171"
+       style="fill:none;stroke:#000000;stroke-width:0.264583"
+       d="m 183.8869,128.8393 h -9.99999 v 3 H 163.8869 v -3 h -10 v 3 h -10 v -3 h -10 v -4.99999 h 3 v -8.00002 h -3 v -8 h 3 v -7.999987 h -3 v -8 h 50 v 8 h -3 v 7.999987 h 3 v 8 h -3 v 8.00002 h 3 z" />
+  </g>
+</svg>
